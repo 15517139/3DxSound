@@ -81,7 +81,7 @@ Place the panels in your room with the 3DXChat editor. When a panel appears on y
 
 ### 3. Place the panels in your room
 
-- The installation folder contains **`ColorRead-3DxSound.world`**, the file with the 5 panels.
+- In the installation folder, the **`Read-Panel-Room-Build`** folder contains **`ColorRead-3DxSound`**: the file with the 5 panels (`.world`) and a photo of them.
 - In the 3DXChat room editor, open the menu and choose **Merge**, then select this file: the panels are added to your room without removing anything.
 - Put each panel where its sound should play: at the entrance of an area, on a wall, near the DJ booth…
 - Keep the **black square** around the triangle: 3DxSound only reacts to the complete panel, so lamps and lights of the same colour never trigger a sound.
@@ -90,6 +90,9 @@ Place the panels in your room with the 3DXChat editor. When a panel appears on y
 <p align="center">
   <img src="https://3dxsound.netlify.app/shot-09.webp" alt="Room editor, Merge" width="700">
 </p>
+
+> [!NOTE]
+> **Demo room:** the `Read-Panel-Room-Build` folder also contains **`ROOM 3DxSound Demo`**, a demonstration room (`.world` file) with 4 photos. Load it in the 3DXChat room editor to see an example of a room made for 3DxSound.
 
 ### 4. The interface
 

@@ -43,7 +43,7 @@ Each room has up to **5 sounds**, one per colour: 🟩 green, 🩷 pink, 🟦 bl
 Place the panels in your room with the 3DXChat editor. When a panel appears on your screen, 3DxSound starts its sound; walk to another area and the sound switches by itself.
 
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-03.webp" alt="The five 3DxSound panels" width="520">
+  <img src="https://3dxsound.netlify.app/shot-03.webp?v=2" alt="The five 3DxSound panels" width="520">
 </p>
 
 ## ⏱️ Everyone hears the same moment

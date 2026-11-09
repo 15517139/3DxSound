@@ -58,12 +58,12 @@ Each room in the list shows two badges: the landscape gives the number of differ
   <img src="https://3dxsound.netlify.app/shot-27.webp" alt="Connected listeners badge" width="380">
 </p>
 
-## 🎚️ Change the stream live
+## 🎚️ Change your sounds live
 
-A new DJ takes over, a radio goes offline? As the creator, you don't need to close your room. Click the green **Stream** button next to the minimized 3DxSound tab, choose the colour of the stream sound, paste the new link and save: everyone in the room switches to it at once.
+A new DJ takes over, a radio goes offline, you want another ambience? As the creator, you don't need to close your room. Click the green **Mix** button next to the minimized 3DxSound tab, choose the colour of the sound, paste a new stream link or pick another sound from the pack, and save: everyone in the room switches to it at once, in sync.
 
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-32.webp" alt="Change a stream over the game" width="800">
+  <img src="https://3dxsound.netlify.app/shot-32.webp?v=2" alt="Mix window over the game" width="800">
 </p>
 
 ## 🚀 Features
@@ -77,7 +77,7 @@ A new DJ takes over, a radio goes offline? As the creator, you don't need to clo
 | ✉️ **Request new sounds** | Missing a sound? Send a request from the app. Selected sounds are added to a future sound pack. |
 | 📝 **Your program** | Switch on Program and write up to 250 characters (DJs, times, theme of the night), shown under your room's sounds. |
 | 🎨 **Choose the colours** | Pick the triangle colour of each sound: one colour per sound, so your panels match your room. |
-| 🎚️ **Live stream switch** | Change a stream link while your room is open: everyone switches at once. |
+| 🎚️ **Live sound switch** | Change a stream link or a pack sound while your room is open: everyone switches at once. |
 | ⬇️ **Automatic updates** | New sound packs and new versions of the app download and install from 3DxSound itself, then it restarts by itself. |
 | 🌍 **Free and multilingual** | English, French, German, Spanish and Italian. No account, no licence, no subscription. |
 
@@ -157,21 +157,26 @@ A new DJ takes over, a radio goes offline? As the creator, you don't need to clo
 > [!TIP]
 > LOCAL sounds are played from each visitor's own sound pack: keeping it up to date means hearing every sound.
 
-#### Change a stream without closing the room
+#### Change a sound without closing the room
 
-While your room is open, you can change the name and link of its **STREAM** sounds at any time. Only you, the creator, see the **Stream** buttons:
+While your room is open, you can change any of its sounds at any time: the name and link of a **STREAM** sound, or the pack sound and public name of a **LOCAL** sound. Only you, the creator, see the **Stream**, **Local** and **Mix** buttons:
 
-- **Minimized**: a green **Stream** button sits next to the 3DxSound tab (the background around the buttons is transparent).
-- **Interface open**: in the **ROOM** tab, click your room: a **Stream** button appears to the right of each STREAM sound, never next to LOCAL sounds.
-- In the **Change a stream** window, click the colour to choose the sound (only STREAM sounds are listed), then change its name and link.
-- **Save**: the room stays open, the change is kept in MY ROOMS, and everyone listening switches to the new link right away. **Cancel**: nothing changes.
+- **Minimized**: a green **Mix** button sits next to the 3DxSound tab (the background around the buttons is transparent). It opens a window in the middle of the screen whose menu lists **all** the colours of the room, each marked (STREAM) or (LOCAL); the window adapts to the sound you pick.
+- **Interface open**: in the **ROOM** tab, click your room: a green **Stream** button appears next to each STREAM sound and a cyan **Local** button next to each LOCAL sound.
+- **Stream** → *Change a stream*: only STREAM sounds, change the name and the streaming link.
+- **Local** → *Change a local sound*: only LOCAL sounds, **Choose a sound** opens the sound pack (with preview); the public name is optional.
+- **Save**: the room stays open, the change is kept in MY ROOMS, and everyone listening switches to the new sound right away (LOCAL sounds stay synchronized). **Cancel**: nothing changes.
 
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-33.webp" alt="Minimized tab with Stream button" width="300">
+  <img src="https://3dxsound.netlify.app/shot-33.webp?v=2" alt="Minimized tab with Mix button" width="300">
 </p>
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-30.webp" alt="Stream buttons in the sounds panel" height="380">
+  <img src="https://3dxsound.netlify.app/shot-30.webp?v=2" alt="Stream and Local buttons in the sounds panel" height="380">
   <img src="https://3dxsound.netlify.app/shot-31.webp" alt="Change a stream window" height="380">
+</p>
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-34.webp" alt="Change a local sound window" height="380">
+  <img src="https://3dxsound.netlify.app/shot-35.webp" alt="Mix window with all colours" height="380">
 </p>
 
 ### 6. Updates

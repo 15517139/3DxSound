@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-01.webp" alt="3DxSound in 3DXChat" width="900">
+  <img src="https://3dxsound.netlify.app/shot-01.webp?v=2" alt="3DxSound in 3DXChat" width="900">
   <br><sub>Walk through the gate: the green panel starts the “WELCOME” ambience.</sub>
 </p>
 
@@ -60,10 +60,10 @@ Each room in the list shows two badges: the landscape gives the number of differ
 
 ## 🎚️ Change your sounds live
 
-A new DJ takes over, a radio goes offline, you want another ambience? As the creator, you don't need to close your room. Click the green **Mix** button next to the minimized 3DxSound tab, choose the colour of the sound, paste a new stream link or pick another sound from the pack, and save: everyone in the room switches to it at once, in sync.
+A new DJ takes over, a radio goes offline, you want another ambience? As the creator, you don't need to close your room. Click the green **Mix** button next to the minimized 3DxSound tab, choose the colour of the sound, paste a new stream link or pick another sound from the pack — you can even turn a stream into a pack sound, or the other way round — and save: everyone in the room switches to it at once, in sync.
 
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-32.webp?v=2" alt="Mix window over the game" width="800">
+  <img src="https://3dxsound.netlify.app/shot-32.webp?v=3" alt="Mix window over the game" width="800">
 </p>
 
 ## 🚀 Features
@@ -123,12 +123,12 @@ A new DJ takes over, a radio goes offline, you want another ambience? As the cre
 <table>
   <tr>
     <td align="center" width="33%"><img src="https://3dxsound.netlify.app/shot-10.webp" alt="ROOM tab" height="380"></td>
-    <td align="center" width="33%"><img src="https://3dxsound.netlify.app/shot-11.webp" alt="Room sounds" height="380"></td>
+    <td align="center" width="33%"><img src="https://3dxsound.netlify.app/shot-11.webp?v=2" alt="Room sounds" height="380"></td>
     <td align="center" width="33%"><img src="https://3dxsound.netlify.app/shot-12.webp" alt="Minimised tab" width="200"></td>
   </tr>
   <tr>
     <td><b>ROOM</b> tab: the list of open rooms, with a search bar. Two badges per room: the landscape = number of different ambiences, the figure = listeners connected now.</td>
-    <td>Tick a room: its sounds appear next to the interface, the sound playing in green. Click a sound to start or stop it. The creator's <b>Program</b> is shown under the sounds.</td>
+    <td>Tick a room: its sounds appear next to the interface, the sound playing in green. Click a sound to start or stop it. The creator's <b>Program</b> is shown under the sounds. In your own room, you also see the <b>Stream</b> and <b>Local</b> buttons.</td>
     <td>Minimised, 3DxSound becomes a small tab above the game. Move it where you like, click it to reopen the interface.</td>
   </tr>
 </table>
@@ -163,8 +163,9 @@ While your room is open, you can change any of its sounds at any time: the name 
 
 - **Minimized**: a green **Mix** button sits next to the 3DxSound tab (the background around the buttons is transparent). It opens a window in the middle of the screen whose menu lists **all** the colours of the room, each marked (STREAM) or (LOCAL); the window adapts to the sound you pick.
 - **Interface open**: in the **ROOM** tab, click your room: a green **Stream** button appears next to each STREAM sound and a cyan **Local** button next to each LOCAL sound.
-- **Stream** → *Change a stream*: only STREAM sounds, change the name and the streaming link.
-- **Local** → *Change a local sound*: only LOCAL sounds, **Choose a sound** opens the sound pack (with preview); the public name is optional.
+- **Stream** → *Change a stream*: the STREAM sounds, change the name and the streaming link.
+- **Local** → *Change a local sound*: the LOCAL sounds, **Choose a sound** opens the sound pack (with preview); the public name is optional.
+- **STREAM / LOCAL boxes** (in all three windows): change the type of the sound — replace a stream with a pack sound (an ambience, a DJ set…) or the other way round.
 - **Save**: the room stays open, the change is kept in MY ROOMS, and everyone listening switches to the new sound right away (LOCAL sounds stay synchronized). **Cancel**: nothing changes.
 
 <p align="center">
@@ -172,11 +173,11 @@ While your room is open, you can change any of its sounds at any time: the name 
 </p>
 <p align="center">
   <img src="https://3dxsound.netlify.app/shot-30.webp?v=2" alt="Stream and Local buttons in the sounds panel" height="380">
-  <img src="https://3dxsound.netlify.app/shot-31.webp" alt="Change a stream window" height="380">
+  <img src="https://3dxsound.netlify.app/shot-31.webp?v=2" alt="Change a stream window" height="380">
 </p>
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-34.webp" alt="Change a local sound window" height="380">
-  <img src="https://3dxsound.netlify.app/shot-35.webp" alt="Mix window with all colours" height="380">
+  <img src="https://3dxsound.netlify.app/shot-34.webp?v=2" alt="Change a local sound window" height="380">
+  <img src="https://3dxsound.netlify.app/shot-35.webp?v=2" alt="Mix window with all colours" height="380">
 </p>
 
 ### 6. Updates

@@ -41,9 +41,10 @@ A forest path with birdsong, a beach with waves, a dance floor with a live DJ, a
 
 Each room has up to **5 sounds**, one per colour: 🟩 green, 🩷 pink, 🟦 blue, 🟧 orange and 🟥 red. You choose which colour goes with which sound.
 Place the panels in your room with the 3DXChat editor. When a panel appears on your screen, 3DxSound starts its sound; walk to another area and the sound switches by itself.
+The panel file also includes the **3DxSound title panel**. Place it at the entrance of your room: as soon as they arrive, players know the room has several ambient sounds, which they hear if they start 3DxSound with this room.
 
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-03.webp?v=2" alt="The five 3DxSound panels" width="520">
+  <img src="https://3dxsound.netlify.app/shot-03.webp?v=3" alt="The 3DxSound title panel and the five colour panels" width="520">
 </p>
 
 ## ⏱️ Everyone hears the same moment
@@ -117,6 +118,9 @@ A new DJ takes over, a radio goes offline, you want another ambience? As the cre
 
 > [!NOTE]
 > **Demo room:** the `Read-Panel-Room-Build` folder also contains **`ROOM 3DxSound Demo`**, a demonstration room (`.world` file) with 4 photos. Load it in the 3DXChat room editor to see an example of a room made for 3DxSound.
+
+> [!NOTE]
+> **Title panel:** the `ColorRead-3DxSound` file also contains the “Compatible 3DxSound” title panel. Put it at the entrance of your room: when they come in, players know this room has several ambient sounds, which they will hear if they start 3DxSound with this room.
 
 ### 4. The interface
 

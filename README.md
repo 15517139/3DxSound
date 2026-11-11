@@ -59,12 +59,40 @@ Each room in the list shows two badges: the landscape gives the number of differ
   <img src="https://3dxsound.netlify.app/shot-27.webp" alt="Connected listeners badge" width="380">
 </p>
 
+## ⭐ Your favourite rooms, always on top
+
+Three small buttons sort the room list the way you like. Nothing to configure: your choices are kept on your PC.
+
+- ⭐ **Favourites**: click the star in front of a room to make it a favourite. Switch on the big star above the list: your favourites go to the top, in alphabetical order.
+- 🔵 **Sort by listeners**: switch on the blue **1** button: the busiest rooms come first. The order is refreshed every 15 seconds, so the list never jumps under your mouse.
+- 📎 **Paper clip on your room**: only you see it, next to your own open room. On (by default): your room stays at the very top of the list. Off: it is sorted like all the other rooms.
+
+Order of the list: your room (paper clip on), the ticked room, your favourites (star on), then all the others.
+
 ## 🎚️ Change your sounds live
 
 A new DJ takes over, a radio goes offline, you want another ambience? As the creator, you don't need to close your room. Click the green **Mix** button next to the minimized 3DxSound tab, choose the colour of the sound, paste a new stream link or pick another sound from the pack — you can even turn a stream into a pack sound, or the other way round — and save: everyone in the room switches to it at once, in sync.
 
 <p align="center">
   <img src="https://3dxsound.netlify.app/shot-32.webp?v=3" alt="Mix window over the game" width="800">
+</p>
+
+## 🧰 Everything at hand while you play
+
+Write your welcome messages, rules or DJ times in the **Notepad** and copy them in one click. Open **Google Translate**, your favourite websites or a folder of your PC in a window that stays above the game: one click on its button in the minimized tab, one more click and it goes away.
+
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-42.webp" alt="Google Translate opened over the game" width="800">
+  <br><sub>Google Translate opened from the minimized tab, right over the game.</sub>
+</p>
+
+## 🖥️ Your programs, above the game
+
+Add Discord, a music player or any program of your PC: 3DxSound starts it and keeps it in front of the game, with a small bar glued under it. **Minimize** sends it to the background without closing it, **Stop** closes it. Its cross minimizes it too, so you never close it by mistake.
+
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-45.webp" alt="Discord in front of the game with the 3DxSound bar" width="800">
+  <br><sub>Discord started from 3DxSound, in front of the game: the Minimize / Stop bar under it and the red cross in its corner.</sub>
 </p>
 
 ## 🚀 Features
@@ -79,7 +107,10 @@ A new DJ takes over, a radio goes offline, you want another ambience? As the cre
 | 📝 **Your program** | Switch on Program and write up to 250 characters (DJs, times, theme of the night), shown under your room's sounds. |
 | 🎨 **Choose the colours** | Pick the triangle colour of each sound: one colour per sound, so your panels match your room. |
 | 🎚️ **Live sound switch** | Change a stream link or a pack sound while your room is open: everyone switches at once. |
-| ⬇️ **Automatic updates** | New sound packs and new versions of the app download and install from 3DxSound itself, then it restarts by itself. |
+| ⭐ **Favourites and sorting** | Star your favourite rooms, sort the list by listeners, and pin your own room at the top with the paper clip. |
+| 🗒️ **Notepad** | Your texts ready to paste in the game chat: one click on Copy. A Notes button can wait in the minimized tab. |
+| 🖥️ **Forced app / web / folder** | Your programs (Discord…), websites (Google Translate included) and folders above the game, with up to 6 buttons in the minimized tab. |
+| ⬇️ **Automatic updates** | New sound packs and new versions of the app download and install from 3DxSound itself, then it restarts by itself. App updates are required. |
 | 🌍 **Free and multilingual** | English, French, German, Spanish and Italian. No account, no licence, no subscription. |
 
 ---
@@ -90,7 +121,7 @@ A new DJ takes over, a radio goes offline, you want another ambience? As the cre
 
 1. **[Download the installer](https://github.com/15517139/3DxSound/releases/latest/download/3DxSound-setup.exe)** and run it.
 2. Choose your language: 3DxSound will start in that language (you can change it at any time in the app).
-3. The default installation folder is `C:\3DxSound`. The installer comes with an empty sound pack: on first launch, 3DxSound tells you how to download the full pack (see step 6).
+3. The default installation folder is `C:\3DxSound`. The installer comes with an empty sound pack: on first launch, 3DxSound tells you how to download the full pack (see step 8).
 
 ### 2. Set up the game
 
@@ -126,19 +157,27 @@ A new DJ takes over, a radio goes offline, you want another ambience? As the cre
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="https://3dxsound.netlify.app/shot-10.webp" alt="ROOM tab" height="380"></td>
+    <td align="center" width="33%"><img src="https://3dxsound.netlify.app/shot-10.webp?v=4" alt="ROOM tab" height="380"></td>
     <td align="center" width="33%"><img src="https://3dxsound.netlify.app/shot-11.webp?v=2" alt="Room sounds" height="380"></td>
-    <td align="center" width="33%"><img src="https://3dxsound.netlify.app/shot-12.webp" alt="Minimised tab" width="200"></td>
+    <td align="center" width="33%"><img src="https://3dxsound.netlify.app/shot-36.webp" alt="+ Options open" height="380"></td>
   </tr>
   <tr>
-    <td><b>ROOM</b> tab: the list of open rooms, with a search bar. Two badges per room: the landscape = number of different ambiences, the figure = listeners connected now.</td>
+    <td><b>ROOM</b> tab: the list of open rooms, with a search bar, the star (favourites) and the blue <b>1</b> button (sort by listeners). Two badges per room: the landscape = number of different ambiences, the figure = listeners connected now.</td>
     <td>Tick a room: its sounds appear next to the interface, the sound playing in green. Click a sound to start or stop it. The creator's <b>Program</b> is shown under the sounds. In your own room, you also see the <b>Stream</b> and <b>Local</b> buttons.</td>
-    <td>Minimised, 3DxSound becomes a small tab above the game. Move it where you like, click it to reopen the interface.</td>
+    <td><b>+ Options</b> (folded at start): the installed sound pack and the latest one, <b>Pack update</b>, <b>Notepad</b>, <b>Forced app / web / folder</b>, <b>Discord</b> and <b>Report a Bug</b>.</td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-43.webp" alt="Minimised tab" width="600">
+  <br><sub>Minimised, 3DxSound becomes a small tab above the game. Move it where you like, click it to reopen the interface. The Mix, Notes and Forced app / web / folder buttons stick next to it.</sub>
+</p>
+
 > [!NOTE]
 > **Synchronized sounds:** LOCAL sounds play from the moment the room was opened, for everyone at the same time. Stop a sound or change area: when its panel appears again, it starts where the track really is. If your sound pack does not match the creator's, 3DxSound asks you to update it.
+
+> [!TIP]
+> **Sort the list:** the star in front of a room makes it a favourite; the big star above the list puts your favourites at the top; the blue **1** button sorts by listeners. Next to your own open room, the paper clip keeps it at the very top (on by default).
 
 ### 5. Create your room
 
@@ -165,7 +204,7 @@ A new DJ takes over, a radio goes offline, you want another ambience? As the cre
 
 While your room is open, you can change any of its sounds at any time: the name and link of a **STREAM** sound, or the pack sound and public name of a **LOCAL** sound. Only you, the creator, see the **Stream**, **Local** and **Mix** buttons:
 
-- **Minimized**: a green **Mix** button sits next to the 3DxSound tab (the background around the buttons is transparent). It opens a window in the middle of the screen whose menu lists **all** the colours of the room, each marked (STREAM) or (LOCAL); the window adapts to the sound you pick.
+- **Minimized**: a green **Mix** button sits next to the 3DxSound tab (the background around the buttons is transparent). It opens a window in the middle of the screen whose menu lists **all** the colours of the room, each marked (STREAM) or (LOCAL); the window adapts to the sound you pick. Click **Mix** again to close it.
 - **Interface open**: in the **ROOM** tab, click your room: a green **Stream** button appears next to each STREAM sound and a cyan **Local** button next to each LOCAL sound.
 - **Stream** → *Change a stream*: the STREAM sounds, change the name and the streaming link.
 - **Local** → *Change a local sound*: the LOCAL sounds, **Choose a sound** opens the sound pack (with preview); the public name is optional.
@@ -184,39 +223,99 @@ While your room is open, you can change any of its sounds at any time: the name 
   <img src="https://3dxsound.netlify.app/shot-35.webp?v=2" alt="Mix window with all colours" height="380">
 </p>
 
-### 6. Updates
+### 6. Notepad
+
+In **+ Options**, click **Notepad**: the window opens attached to the interface. **Add a note**, give it a name and a text, then **Save**. The search bar filters the notes by name, letter by letter.
+
+- Each note shows its name and the start of its text. **Copy** copies only the text, the pencil edits the note, the red **X** deletes it after confirmation.
+- Adding or editing a note: the window opens attached to the notepad, bottoms aligned.
+
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-37.webp" alt="Notepad" height="380">
+  <img src="https://3dxsound.netlify.app/shot-38.webp" alt="New note" height="380">
+</p>
+
+> [!TIP]
+> Switch on **Enable the minimized button**: a cyan **Notes** button appears next to the minimized tab (after Mix). It opens the notepad in the middle of the screen; click it again to close it. Minimizing the interface closes the notepad.
+
+### 7. Forced app / web / folder
+
+In **+ Options**, click **Forced app / web / folder**. **Google Translate** is already in the list (it can be switched off or moved, not deleted). **Add app** adds a program of your PC, **Add web** a website, **Add folder** a folder. A red gear marks a program, a purple planet a website, an orange folder a folder.
+
+1. Click a name to open it, click again to close it. Each block has its switch (button in the minimized tab), the pencil and the red **X**. Under a program, the green **Start** button becomes a red **Stop** once it runs. Hold a block and drag it to change its place.
+2. **Add app**: the application name (also shown on its minimized button), then **Browse…** to pick the program (.exe, shortcut, script…).
+3. **Add web**: the tab name (also shown on its minimized button) and the URL link.
+4. **Add folder**: the folder name, then **Browse…** to pick it with Windows File Explorer.
+
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-39.webp" alt="Forced app / web / folder list" height="380">
+  <img src="https://3dxsound.netlify.app/shot-44.webp" alt="New app" height="380">
+</p>
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-40.webp" alt="New tab" height="380">
+  <img src="https://3dxsound.netlify.app/shot-41.webp" alt="New folder" height="380">
+</p>
+
+5. Minimized: 3DxSound, Mix, Notes, then the switched-on blocks in the order of the list — red for a running program, grey for a program not started, purple for a website, orange for a folder.
+6. Grey button: the program is not started. A window opens in the middle of the screen: **Start** launches it, in front of the game. Red button: one click sends the program to the background, one more click brings it back.
+
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-43.webp" alt="Minimized buttons" width="600">
+</p>
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-46.webp" alt="Start a program" width="500">
+</p>
+
+7. A running program stays in front of the game, with its bar: **Minimize** sends it to the background (it keeps running), **Stop** closes it. Its own cross minimizes it too. A click on its name or on its red button brings it back.
+8. A website opens in the middle of the screen, above the game: move it and resize it as you like. A folder opens in File Explorer, in front of the game.
+
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-45.webp" alt="Program in front of the game" width="800">
+</p>
+<p align="center">
+  <img src="https://3dxsound.netlify.app/shot-42.webp" alt="Website over the game" width="800">
+</p>
+
+> [!TIP]
+> Switch on **Enable** at the top of the window to show the buttons in the minimized tab. Up to 6 blocks can be on at the same time; you can save as many as you want. Minimizing the interface closes this window.
+
+> [!NOTE]
+> **Programs:** only the main window gets the bar and the cross; its other windows (settings…) open in front too and close normally. A program closed to the notification area keeps its red button: one click shows it again. If a program runs as administrator, 3DxSound offers to restart itself as administrator to keep it in front.
+
+### 8. Updates
 
 #### Sound pack
 
-1. A new sound pack is available: a red message tells you when 3DxSound starts.
-2. Click **Pack update**: the list of packs opens. ✓ installed, ⬇ the next one to download, 🔒 locked until the previous one is installed. Packs install in order.
+1. A new sound pack is available: a red message tells you when 3DxSound starts. Click **OK**: **+ Options** and **Pack update** open by themselves.
+2. The list of packs (in **+ Options** › **Pack update**). ✓ installed, ⬇ the next one to download, 🔒 locked until the previous one is installed. Packs install in order.
 3. Click the pack name: a window shows its size. Click **Download**.
 4. The download runs inside the app with a progress bar, then the pack installs by itself.
 5. Another pack is waiting? 3DxSound offers to download it right away. **YES** continues, **NO** stops here.
 6. Everything is installed: restart. **Automatic restart** relaunches 3DxSound for you.
 
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-19.webp" alt="Pack update list" height="380">
+  <img src="https://3dxsound.netlify.app/shot-21.webp?v=4" alt="New sound pack alert" height="380">
+  <img src="https://3dxsound.netlify.app/shot-19.webp?v=4" alt="Pack update list" height="380">
   <img src="https://3dxsound.netlify.app/shot-22.webp" alt="Download progress" height="380">
 </p>
 
 #### Application
 
-When 3DxSound starts, it checks for a new version. Your sound pack and your rooms are kept: the update installs in the same folder, in the same language, without any question, then 3DxSound restarts by itself. If a new version and a new sound pack are available together, the app is updated first; the pack is offered at the next start.
+When 3DxSound starts, it checks for a new version. **The update is required: an older version can no longer be used.** Your sound pack and your rooms are kept: the update installs in the same folder, in the same language, without any question, then 3DxSound restarts by itself. If a new version and a new sound pack are available together, the app is updated first; the pack is offered at the next start.
 
-1. A red message offers the update. **NO** closes it (it comes back at the next start), **YES** starts the update.
-2. The new version downloads with a progress bar. **Cancel** deletes the unfinished file. Then the installer runs on its own and 3DxSound restarts, up to date.
+1. A new version is available: the red message tells you the update is required. **YES** starts it, **NO** quits 3DxSound.
+2. The new version downloads with a progress bar. **Cancel** deletes the unfinished file and quits 3DxSound. Then the installer runs on its own and 3DxSound restarts, up to date.
 
 <p align="center">
-  <img src="https://3dxsound.netlify.app/shot-28.webp" alt="Application update alert" height="380">
+  <img src="https://3dxsound.netlify.app/shot-28.webp?v=4" alt="Required application update" height="380">
   <img src="https://3dxsound.netlify.app/shot-29.webp" alt="Application download" height="380">
 </p>
 
-### 7. Need help?
+### 9. Need help?
 
 Questions, ideas, sound requests: **[join the Discord](https://discord.gg/TqdhdVw22b)**.
 Found a problem? **[Report a bug](https://discord.gg/ZZ4CSprud9)**, with a screenshot if you can.
-The **Discord** and **Report a Bug** buttons are also at the bottom of the app.
+The **Discord** and **Report a Bug** buttons are also in the app, in **+ Options**.
 
 ---
 
